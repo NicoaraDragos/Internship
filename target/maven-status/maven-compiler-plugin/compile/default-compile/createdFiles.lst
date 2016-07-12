@@ -1,0 +1,7 @@
+com\evozon\domain\Address.class
+com\evozon\dao\impl\AddressDAOImpl.class
+com\evozon\dao\impl\UserDAOImpl.class
+com\evozon\dao\UserDAO.class
+com\evozon\domain\User.class
+com\evozon\mvc\HomeController.class
+com\evozon\dao\AddressDAO.class
